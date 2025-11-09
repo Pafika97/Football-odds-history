@@ -1,0 +1,4 @@
+DateUTC,League,Season,Round,Home,Away,Kickoff_Timestamp,FixtureID,Status,HomeGoals,AwayGoals,Outcome,Odds_H,Odds_D,Odds_A,TeamSide,TeamOdds
+2025-08-15T19:00:00Z,Premier League,2025,Regular Season - 1,Arsenal,Everton,1755284400,9990001,FT,2,0,H,1.65,3.7,5.2,Home,1.65
+2025-08-22T19:00:00Z,Premier League,2025,Regular Season - 2,Manchester United,Arsenal,1755889200,9990002,FT,1,1,D,2.3,3.3,2.9,Away,2.9
+2025-08-29T19:00:00Z,Premier League,2025,Regular Season - 3,Arsenal,Chelsea,1756494000,9990003,FT,0,1,A,2.05,3.4,3.6,Home,2.05
